@@ -171,7 +171,7 @@
     </key>
     <key type="i" name="double-click-time">
       <range min="0" max="2147483647" />
-      <default>250</default>
+      <default>500</default>
       <summary>Double click time</summary>
       <description>
         Maximum time allowed between two clicks for them to be considered a double click (in milliseconds).
