@@ -366,6 +366,14 @@
         Text scale for Gdk.
       </description>
     </key>
+    <key type="d" name="recommend-scale-factor">
+      <range min="0" max="10" />
+      <default>1</default>
+      <summary>Monitor Recommended Scale Factor</summary>
+      <description>
+        Record the value of monitor recommended scale factor.
+      </description>
+    </key>
     <key type="i" name="window-scale">
       <range min="1" max="10" />
       <default>1</default>
