@@ -2,7 +2,7 @@
 <schemalist>
 	<schema id="com.deepin.dde.keybinding.system" path="/com/deepin/dde/keybinding/system/">
 		<key type="as" name="launcher">
-			<default>['Super_L','Super_R']</default>
+			<default><![CDATA[['Super_L','Super_R','<Shift><Super><XF86TouchpadToggle>']]]></default>
 			<summary>Show or hide dde-launcher</summary>
 			<description></description>
 		</key>
